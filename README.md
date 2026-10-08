@@ -27,7 +27,7 @@
 Next.js 14 (App Router) · React 18 · Supabase (Auth, PostgreSQL) · Google Books API · Vercel · GitHub
 
 ## 실행 주소
-https://(배포 후 여기에 Vercel 주소를 적어 주세요).vercel.app
+[https://qa-mzekijd7v-mellsh1.vercel.app/](https://qa-mzekijd7v-mellsh1.vercel.app/)
 
 ## 환경 변수
 `.env.example` 참고 — `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `NEXT_PUBLIC_GOOGLE_BOOKS_API_KEY`
